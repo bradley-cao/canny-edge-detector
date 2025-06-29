@@ -1,4 +1,3 @@
-//Bradley Cao Period 5
 #include<iostream>
 #include<iomanip>
 #include<vector>
